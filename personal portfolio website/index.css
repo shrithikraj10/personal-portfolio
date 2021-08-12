@@ -482,10 +482,36 @@ form{
 
 @media only screen and (max-width: 700px) {
 
-body{
-  margin: 1.1em;
-  }
+  body{
+  margin: 1em;
+}
+.first-page{
+  height: 330px;
+}
+.gif1{
+  display: none;
+height: 40px;
+bottom: -1em;
+right: 5.1em;
+}
 
+
+.text2{
+  font-size: 5em;
+  right: 1.7em;
+}
+.text3{
+  font-size: 3em;
+}
+.text4{
+  font-size: 1em;;
+}
+.outer{
+  height: 110px;
+}
+.contact, .about{
+  display: none;
+}
 .scroll, .scrolll{
   display : none;
 }
