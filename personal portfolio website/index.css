@@ -483,10 +483,10 @@ form{
 @media only screen and (max-width: 700px) {
 
   body{
-  margin: 1em;
+  margin: 17em 1em 0 1em;
 }
 .first-page{
-  height: 600px;
+  height: 500px;
 }
 .gif1{
   display: none;
@@ -494,10 +494,10 @@ height: 40px;
 bottom: -1em;
 right: 5.1em;
 }
-.text1{
-   right:10em;
-  }
 
+.text1{
+  right:10em;
+}
 .text2{
   font-size: 5em;
   right: 1.7em;
@@ -530,6 +530,7 @@ right: 5.1em;
   width: 100%;
 }
 .about-title2{
+  margin: 3.5em 0 0 0;
   width: 100%;
 }
 
