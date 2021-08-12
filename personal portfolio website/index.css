@@ -479,14 +479,24 @@ form{
    opacity: 0.3;
 }
 
-
-@media only screen and (max-width: 700px) {
-
-  body{
-  margin: 17em 1em 0 1em;
+.im{
+  height: 180px;
+  width: 320px;
+}
+@media only screen and (max-width: 450px) {
+body{
+  margin: 14.5em 1em 0 1em;
 }
 .first-page{
   height: 500px;
+}
+
+.flip-card{
+  width: 100%;
+
+}
+.im{
+  width: 400px;
 }
 .gif1{
   display: none;
@@ -521,10 +531,12 @@ right: 5.1em;
 
 .megaproject{
   flex-direction: column;
+  align-items: center;
 }
 
 .about-title{
   flex-direction: column;
+  align-items: center;
 }
 .about-title1{
   width: 100%;
@@ -547,5 +559,4 @@ right: 5.1em;
   padding: 5em;
   font-size: 0.5em;
 }
-
 }
