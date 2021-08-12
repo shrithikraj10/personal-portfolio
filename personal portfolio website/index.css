@@ -224,7 +224,7 @@ body{
   width: 33.3%;
   background-color: transparent;
   padding: 1em;
-  width: 320px;
+  width: 400px;
   height: 180px;
   perspective: 1000px;
   border-radius: 3px;/* Remove this if you don't want the 3D effect */
@@ -482,7 +482,7 @@ form{
 
 .im{
   height: 180px;
-  width: 320px;
+  width: 370px;
 }
 @media only screen and (max-width: 450px) {
 body{
