@@ -486,7 +486,7 @@ form{
   margin: 1em;
 }
 .first-page{
-  height: 330px;
+  height: 600px;
 }
 .gif1{
   display: none;
@@ -494,8 +494,7 @@ height: 40px;
 bottom: -1em;
 right: 5.1em;
 }
-
- .text1{
+.text1{
    right:10em;
   }
 
